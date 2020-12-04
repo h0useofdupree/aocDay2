@@ -1,0 +1,12 @@
+/home/juuls/Projects/2ndDay/2ndDay/bin/Debug/2ndDay.exe
+/home/juuls/Projects/2ndDay/2ndDay/bin/Debug/2ndDay.pdb
+/home/juuls/Projects/2ndDay/2ndDay/obj/x86/Debug/aocDay2.csprojAssemblyReference.cache
+/home/juuls/Projects/2ndDay/2ndDay/obj/x86/Debug/aocDay2.csproj.CoreCompileInputs.cache
+/home/juuls/Projects/2ndDay/2ndDay/obj/x86/Debug/2ndDay.exe
+/home/juuls/Projects/2ndDay/2ndDay/obj/x86/Debug/2ndDay.pdb
+/home/juuls/AdventOfCode/2ndDay/2ndDay/2ndDay/bin/Debug/2ndDay.exe
+/home/juuls/AdventOfCode/2ndDay/2ndDay/2ndDay/bin/Debug/2ndDay.pdb
+/home/juuls/AdventOfCode/2ndDay/2ndDay/2ndDay/obj/x86/Debug/aocDay2.csprojAssemblyReference.cache
+/home/juuls/AdventOfCode/2ndDay/2ndDay/2ndDay/obj/x86/Debug/aocDay2.csproj.CoreCompileInputs.cache
+/home/juuls/AdventOfCode/2ndDay/2ndDay/2ndDay/obj/x86/Debug/2ndDay.exe
+/home/juuls/AdventOfCode/2ndDay/2ndDay/2ndDay/obj/x86/Debug/2ndDay.pdb

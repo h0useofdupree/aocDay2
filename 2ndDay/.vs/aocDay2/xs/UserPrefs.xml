@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{2EFA1FCD-8433-44AB-A6C4-31D19548ADA5}|Default">
+  <MonoDevelop.Ide.ItemProperties.aocDay2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="2ndDay/Program.cs">
+    <Files>
+      <File FileName="2ndDay/Program.cs" Line="59" Column="58" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <Debugger.DebugSourceFolders>
+    <String>/home/juuls/AdventOfCode/2ndDay</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/home/juuls/Projects/2ndDay/2ndDay/bin/Debug/2ndDay.exe
+/home/juuls/Projects/2ndDay/2ndDay/bin/Debug/2ndDay.pdb
+/home/juuls/Projects/2ndDay/2ndDay/obj/x86/Debug/aoc2ndDay.csprojAssemblyReference.cache
+/home/juuls/Projects/2ndDay/2ndDay/obj/x86/Debug/aoc2ndDay.csproj.CoreCompileInputs.cache
+/home/juuls/Projects/2ndDay/2ndDay/obj/x86/Debug/2ndDay.exe
+/home/juuls/Projects/2ndDay/2ndDay/obj/x86/Debug/2ndDay.pdb
